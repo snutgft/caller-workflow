@@ -7,4 +7,4 @@ jobs:
     permissions:
       contents: write
       id-token: write
-    uses: letsesign/called-workflow/.github/workflows/main.yml@d6fc9a4bb00b7729aed41206f51cb33d4d0dd431
+    uses: letsesign/called-workflow/.github/workflows/main.yml@0ed1fb7e19306946783af6143784b7de650a868a
